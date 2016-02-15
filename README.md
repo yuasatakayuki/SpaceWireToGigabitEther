@@ -64,7 +64,7 @@ The SpaceWire-to-GigabitEther bridge can be used in applications which
 run PC software to control SpaceWire nodes and transfer data from them
 to the software.
 
-[![](images/TypicalConfigurationOfSpaceWire-to-GigabitEther-300x211.png)](images/TypicalConfigurationOfSpaceWire-to-GigabitEther.png)
+[![](wiki/images/TypicalConfigurationOfSpaceWire-to-GigabitEther-300x211.png)](images/TypicalConfigurationOfSpaceWire-to-GigabitEther.png)
 
 The open-source SpaceWire-to-GigabitEther transfers data at 95 Mbps
 (max) when the link is operated at 125 MHz. See the user guide for
