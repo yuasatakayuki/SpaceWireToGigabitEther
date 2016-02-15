@@ -40,10 +40,10 @@ TCP/IP-SpaceWire bridge is available in the open-source
 SpaceWire-to-GigabitEther.
 
 ## Open-source SpaceWire-to-GigabitEther
-[![](wiki/images/SpaceWire-to-GigabitEther_opensource_version-300x201.jpg)](images/SpaceWire-to-GigabitEther_opensource_version)
+[![](https://github.com/yuasatakayuki/SpaceWireToGigabitEther/wiki/images/SpaceWire-to-GigabitEther_opensource_version-300x201.jpg)](https://github.com/yuasatakayuki/SpaceWireToGigabitEther/wiki/images/SpaceWire-to-GigabitEther_opensource_version)
 
 ## Product version from Shimafuji Electric
-[![](wiki/images/ShimafujiSpaceWire-to-GigabitEther-300x200.jpg)](images/ShimafujiSpaceWire-to-GigabitEther.jpg)
+[![](https://github.com/yuasatakayuki/SpaceWireToGigabitEther/wiki/images/ShimafujiSpaceWire-to-GigabitEther-300x200.jpg)](https://github.com/yuasatakayuki/SpaceWireToGigabitEther/wiki/images/ShimafujiSpaceWire-to-GigabitEther.jpg)
 
 Documents
 ---------
@@ -83,7 +83,7 @@ Open-source SpaceWire-to-GigabitEther issues
 The figure below presents internal structure of the open-source
 SpaceWire-to-GigabitEther FPGA.
 
-[![](images/BlockDiagramOfOpenSourceSpaceWire-to-GigabitEther.png)](images/BlockDiagramOfOpenSourceSpaceWire-to-GigabitEther.png)
+[![](https://github.com/yuasatakayuki/SpaceWireToGigabitEther/wiki/images/BlockDiagramOfOpenSourceSpaceWire-to-GigabitEther.png)](https://github.com/yuasatakayuki/SpaceWireToGigabitEther/wiki/images/BlockDiagramOfOpenSourceSpaceWire-to-GigabitEther.png)
 
 ### FPGA IP core
 
