@@ -40,10 +40,10 @@ TCP/IP-SpaceWire bridge is available in the open-source
 SpaceWire-to-GigabitEther.
 
 ## Open-source SpaceWire-to-GigabitEther
-[![](images/SpaceWire-to-GigabitEther_opensource_version-300x201.jpg)](images/SpaceWire-to-GigabitEther_opensource_version)
+[![](wiki/images/SpaceWire-to-GigabitEther_opensource_version-300x201.jpg)](images/SpaceWire-to-GigabitEther_opensource_version)
 
 ## Product version from Shimafuji Electric
-[![](images/ShimafujiSpaceWire-to-GigabitEther-300x200.jpg)](images/ShimafujiSpaceWire-to-GigabitEther.jpg)
+[![](wiki/images/ShimafujiSpaceWire-to-GigabitEther-300x200.jpg)](images/ShimafujiSpaceWire-to-GigabitEther.jpg)
 
 Documents
 ---------
@@ -64,7 +64,7 @@ The SpaceWire-to-GigabitEther bridge can be used in applications which
 run PC software to control SpaceWire nodes and transfer data from them
 to the software.
 
-[![](https://github.com/yuasatakayuki/SpaceWireToGigabitEther/wiki/images/TypicalConfigurationOfSpaceWire-to-GigabitEther-300x211.png)](https://github.com/yuasatakayuki/SpaceWireToGigabitEther/wiki/images/TypicalConfigurationOfSpaceWire-to-GigabitEther.png)
+[![](https://github.com/yuasatakayuki/SpaceWireToGigabitEther/wiki/images/TypicalConfigurationOfSpaceWire-to-GigabitEther.png)](https://github.com/yuasatakayuki/SpaceWireToGigabitEther/wiki/images/TypicalConfigurationOfSpaceWire-to-GigabitEther.png)
 
 The open-source SpaceWire-to-GigabitEther transfers data at 95 Mbps
 (max) when the link is operated at 125 MHz. See the user guide for
@@ -83,7 +83,7 @@ Open-source SpaceWire-to-GigabitEther issues
 The figure below presents internal structure of the open-source
 SpaceWire-to-GigabitEther FPGA.
 
-[![](images/BlockDiagramOfOpenSourceSpaceWire-to-GigabitEther-300x171.png)](images/BlockDiagramOfOpenSourceSpaceWire-to-GigabitEther.png)
+[![](images/BlockDiagramOfOpenSourceSpaceWire-to-GigabitEther.png)](images/BlockDiagramOfOpenSourceSpaceWire-to-GigabitEther.png)
 
 ### FPGA IP core
 
